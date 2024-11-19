@@ -1,2 +1,1 @@
-# seido
 # A-Ar
